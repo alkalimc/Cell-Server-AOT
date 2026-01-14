@@ -1,0 +1,27 @@
+{
+  "allowMovement": {
+    "com.tacz.guns.client.gui.GunRefitScreen": true,
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "com.elfmcys.yesstevemodel.ooOoOOO0oO0OOoOo0ooOOo0o": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "xaero.map.gui.GuiMap": true,
+    "com.elfmcys.yesstevemodel.oOOO00Oo0OOooOo0o0OOo0Oo": true,
+    "net.minecraft.class_433": true,
+    "net.minecraft.class_429": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.irisshaders.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_407": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.item.FoxScrollScreen": true,
+    "xaero.common.gui.GuiWaypoints": true,
+    "me.shedaniel.clothconfig2.gui.GlobalizedClothConfigScreen": true,
+    "com.elfmcys.yesstevemodel.o000o0O0OOo0OO0OO000o0O0": true,
+    "loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true
+  },
+  "hideBackground": {
+    "com.tacz.guns.client.gui.GunRefitScreen": true,
+    "com.elfmcys.yesstevemodel.ooOoOOO0oO0OOoOo0ooOOo0o": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.entity.maid.backpack.EmptyBackpackContainerScreen": true,
+    "com.github.tartaricacid.touhoulittlemaid.client.gui.item.FoxScrollScreen": true
+  }
+}

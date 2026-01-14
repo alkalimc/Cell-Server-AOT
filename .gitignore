@@ -1,0 +1,80 @@
+# PCL
+/PCL/Musics/
+/PCL/Pictures/
+
+/PCL/JavaWrapper.jar
+/PCL/LatestLaunch.bat
+/PCL/libjlw-x86_64-1.4.4.dll
+/PCL/libwebp.dll
+/PCL/Log*
+
+
+# Minecraft
+/.minecraft/assets
+/.minecraft/libraries
+/.minecraft/NVIDIA
+
+/.minecraft/launcher_profiles.json
+
+
+# Bunker Server AOT
+/.minecraft/versions/Bunker Server AOT/Bunker Server AOT-natives
+/.minecraft/versions/Bunker Server AOT/cloth_local
+/.minecraft/versions/Bunker Server AOT/data
+/.minecraft/versions/Bunker Server AOT/debug
+/.minecraft/versions/Bunker Server AOT/defaultconfigs
+/.minecraft/versions/Bunker Server AOT/downloads
+/.minecraft/versions/Bunker Server AOT/logs
+/.minecraft/versions/Bunker Server AOT/PCL
+/.minecraft/versions/Bunker Server AOT/saves
+/.minecraft/versions/Bunker Server AOT/screenshots
+
+/.minecraft/versions/Bunker Server AOT/Bunker Server AOT.jar
+/.minecraft/versions/Bunker Server AOT/command_history.txt
+/.minecraft/versions/Bunker Server AOT/servers.dat_old
+/.minecraft/versions/Bunker Server AOT/usercache.json
+
+
+# Config
+/.minecraft/versions/Bunker Server AOT/config/inventoryprofilesnext/10.20.147.131&25565
+/.minecraft/versions/Bunker Server AOT/config/inventoryprofilesnext/localhost&25565
+
+/.minecraft/versions/Bunker Server AOT/config/jade/usernamecache.json
+
+/.minecraft/versions/Bunker Server AOT/config/spark/tmp
+
+/.minecraft/versions/Bunker Server AOT/config/yes_steve_model/cache
+
+/.minecraft/versions/Bunker Server AOT/config/fabric/indigo-renderer.properties
+
+/.minecraft/versions/Bunker Server AOT/config/scalablelux.properties
+
+# Mod
+/.minecraft/versions/Bunker Server AOT/.fabric
+
+/.minecraft/versions/Bunker Server AOT/.physics_mod_cache
+
+/.minecraft/versions/Bunker Server AOT/backups
+
+/.minecraft/versions/Bunker Server AOT/Distant_Horizons_server_data
+
+/.minecraft/versions/Bunker Server AOT/patchouli_books
+
+/.minecraft/versions/Bunker Server AOT/tacz
+/.minecraft/versions/Bunker Server AOT/tacz_backup
+
+/.minecraft/versions/Bunker Server AOT/tlm_custom_pack
+
+/.minecraft/versions/Bunker Server AOT/xaero
+/.minecraft/versions/Bunker Server AOT/XaeroWaypoints_BACKUP240807
+
+/.minecraft/versions/Bunker Server AOT/patchouli_data.json
+
+
+# Resource Packs
+/.minecraft/versions/Bunker Server AOT/resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.21.1.zip
+
+
+# Loose
+*.bak
+*.log
